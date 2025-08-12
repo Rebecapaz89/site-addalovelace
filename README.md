@@ -17,7 +17,7 @@ O site apresenta a trajetória de Adda Lovelace, considerada a primeira programa
 📦 site-addalovelace  
 ┣ 📜 [index.html](https://github.com/Rebecapaz89/site-addalovelace/blob/main/index.html)  
 ┣ 📜 [style.css](https://github.com/Rebecapaz89/site-addalovelace/blob/main/css/style.css)  
-┗ 📜 [script.js](https://github.com/Rebecapaz89/site-addalovelace/blob/main/script.js)
+┗ 📜 [script.js](https://github.com/Rebecapaz89/site-addalovelace/blob/main/js/script.js)
 
 ## 💡 Como rodar o projeto
 
